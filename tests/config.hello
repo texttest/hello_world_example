@@ -1,0 +1,7 @@
+executable:${TEXTTEST_HOME}/hello.py
+filename_convention_scheme:standard
+full_name:Hello World
+
+# Run tests in series
+config_module:default
+
